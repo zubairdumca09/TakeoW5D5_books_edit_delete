@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "title": "1Fundamentals",
+      "writer": "1HC Verma",
+      "publisher": "1Publisher",
+      "isbn": "asd123",
+      "subject": "5",
+      "availability": "yes",
+      "numPages": "1201",
+      "id": 2
+    },
+    {
+      "title": "Title",
+      "writer": "Wroter",
+      "publisher": "Pub",
+      "isbn": "we23",
+      "subject": "3",
+      "availability": "notConfirmed",
+      "numPages": "1231",
+      "id": 3
+    },
+    {
+      "title": "Title",
+      "writer": "Wroter",
+      "publisher": "Pub",
+      "isbn": "we23",
+      "subject": "3",
+      "availability": "notConfirmed",
+      "numPages": "1231",
+      "id": 5
+    },
+    {
+      "title": "Title",
+      "writer": "Wroter",
+      "publisher": "Pub",
+      "isbn": "we23",
+      "subject": "3",
+      "availability": "notConfirmed",
+      "numPages": "1231",
+      "id": 6
+    },
+    {
+      "title": "Title",
+      "writer": "Wroter",
+      "publisher": "Pub",
+      "isbn": "we23",
+      "subject": "3",
+      "availability": "notConfirmed",
+      "numPages": "1231",
+      "id": 7
+    }
+  ]
+}
